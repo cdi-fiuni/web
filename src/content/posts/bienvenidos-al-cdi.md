@@ -3,7 +3,7 @@ author: "Adán Alvarez"
 title: ¡Bienvenidos al CDI!
 description: Una pequeña guia para todos los nuevos imemrbos del CDI
 pubDatetime: 2026-07-27T19:52:00.705Z
-featured: true
+draft: true
 tags: 
     - guias
 hideEditPost: true
