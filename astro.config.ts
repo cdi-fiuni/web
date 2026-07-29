@@ -18,8 +18,10 @@ import {
 } from "@shikijs/transformers";
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import config from "./astro-paper.config";
+import cloudflare from '@astrojs/cloudflare';
 
 export default defineConfig({
+  adapter: cloudflare(),
   site: config.site.url,
   integrations: [
     mdx(),
