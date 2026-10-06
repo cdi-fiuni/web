@@ -3,7 +3,7 @@ title: Taller de Git y GitHub
 date: 2026-10-07T18:00:00.000Z
 description: Una introducción práctica a Git y GitHub para personas que recién se inician en el versionado de código.
 location: Laboratorio de Informática 1, Facultad de Ingeniería UNI
-time: "15:00 - 20:00"
+time: "15:00 - 18:00"
 presenters:
   - "Adán Alvarez"
 tags:
